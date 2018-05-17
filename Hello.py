@@ -17,5 +17,8 @@ print(hello)
 
 print('liweiguo')
 
+print('这只是个开始')
+
+print('后面还会有无数的挫折和考验')
 
 
